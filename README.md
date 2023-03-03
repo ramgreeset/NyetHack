@@ -15,6 +15,10 @@
  
  <a href="http://it.kgsu.ru/Kotlin/kotlin022.html">Step 22</a>
  
+ <li>Вложенные операторы if/else</li></br>
+ 
+ <a href="http://it.kgsu.ru/Kotlin/kotlin023.html">Step 23</a>
+ 
  <li>Операторы логического "И" и оператор логического "ИЛИ".</li>
  <li>Приоритет логических операторов</li>
  <li>Инкапсуляция условий if</li>
