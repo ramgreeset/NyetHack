@@ -1,11 +1,15 @@
 
 fun main() {
     val name = "ТриДогНайт"
-    var healthPoints = 10
+    var healthPoints = 85
+    val regeneration = true
 
     if (healthPoints == 100) {
         println(name + " в отличном состоянии.")
     }else if(healthPoints >= 85) {
+        if(regeneration)
+            println(name + " включил режим ускоренной регенерации")
+            else
         println(name + " в хорошем состоянии.")
     }else if(healthPoints >= 60){
         println(name + " ранен")
