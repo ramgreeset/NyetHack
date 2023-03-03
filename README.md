@@ -5,7 +5,7 @@
 <a href="http://it.kgsu.ru/Kotlin/kotlin020.html">Step 20</a>
 
 <li>Функции print() и println()</li>
-<li>Оператор if и его отличия от инструкции if в Java. Потоки выполнения.</li>
+<li>Оператор if и его отличия от инструкции if в Java.</li>
 <li>Операторы сравнения в Kotlin.</li></br>
 
 
@@ -15,14 +15,27 @@
  
  <a href="http://it.kgsu.ru/Kotlin/kotlin022.html">Step 22</a>
  
- <li>Вложенные операторы if/else</li></br>
+ <li>Вложенные операторы if/else. Потоки выполнения</li>
+ <li>Условные конструкции</li></br>
  
  <a href="http://it.kgsu.ru/Kotlin/kotlin023.html">Step 23</a>
  
  <li>Операторы логического "И" и оператор логического "ИЛИ".</li>
  <li>Приоритет логических операторов</li>
  <li>Инкапсуляция условий if</li>
- <li>Присваивание переменной результата выражения логических операторов && и ||</li>
+ <li>Присваивание переменной результата выражения логических операторов && и ||</li></br>
+ 
+ <a href="http://it.kgsu.ru/Kotlin/kotlin024.html">Step 24</a>
+ 
+ <li>Условное выражение if. Альтернатива тернарному оператору</li></br>
+ 
+  <a href="http://it.kgsu.ru/Kotlin/kotlin025.html">Step 25</a>
+  
+ <li>Скобки в выражениях if читаемость кода и профилактика ошибок связанная с ними</li></br>
+ 
+ <a href="http://it.kgsu.ru/Kotlin/kotlin026.html">Step 26</a>
+ 
+ <li>Интервалы в Kotlin и ключевое слово in</li></br>
  
 </ol>
 
