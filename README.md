@@ -1,4 +1,4 @@
-<h1 text-size="12px"><a href="http://it.kgsu.ru/Kotlin/oglav.html">Курс с сайта Курганского Государственного Университета</a></h1>
+<h1 text-size="12px"><a href="http://it.kgsu.ru/Kotlin/oglav.html">Курс Курганского Государственного Университета</a></h1>
 
 <ol>
 
