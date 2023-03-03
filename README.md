@@ -1,5 +1,5 @@
 <h1 align="center"; text-size="12px">Курс с сайта Курганского Государственного Университета</h1>
-<a href="http://it.kgsu.ru/Kotlin/oglav1.html">Содержание курса</a>
+<a href="http://it.kgsu.ru/Kotlin/oglav.html">Содержание курса</a>
 
 
 <h2>Урок 1</h2>
