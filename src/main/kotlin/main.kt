@@ -1,11 +1,22 @@
 
-fun main() {                                        //Объявляем функцию main() без параметров
-    val name = "Варг Викернес"                      //val - неизменяемая переменная
-    var healthPoints = 100                          //var - изменяема
+fun main() {
+    val name = "ТриДогНайт"
+    var healthPoints = 10
 
-    if (healthPoints == 100) {                      //if является выражением в отличае от языка Java где if это инструкция
-        println(name + " в отличном состоянии.")    // Функция println() отличается от print() тем, что содержит в себе символ переноса строки
-    } else {
-        print(name + " в ужасном состоянии.")
-    }
+    if (healthPoints == 100) {
+        println(name + " в отличном состоянии.")
+    }else if(healthPoints >= 85) {
+        println(name + " в хорошем состоянии.")
+    }else if(healthPoints >= 60){
+        println(name + " ранен")
+    }else if(healthPoints >= 45){
+        println(name + " сильно ранен")
+    } else if (healthPoints >= 30)
+        println(name + " еле стоит на ногах")
+    else if (healthPoints >= 15) {
+        println(name + " вот-вот потеряет сознание")
+    }else
+        println("Приплыли")
+
+
 }
