@@ -37,5 +37,9 @@
  
  <li>Интервалы в Kotlin и ключевое слово in</li></br>
  
+ <a href="http://it.kgsu.ru/Kotlin/kotlin027.html">Step 27</a>
+ 
+ <li>Условное выражение when. Особенности и преимущества его использования </li>
+ 
 </ol>
 
