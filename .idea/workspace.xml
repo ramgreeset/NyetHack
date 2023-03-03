@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7566c81d-ff94-48cb-8387-54eebd16c487" name="Changes" comment="Шаг 22&#10;Объявили переменную boolean&#10;Рассмотрели вложенные операторы if">
+    <list default="true" id="7566c81d-ff94-48cb-8387-54eebd16c487" name="Changes" comment="Шаг 23&#10;Использование логических операторов &amp;&amp; и ||&#10;Присваивание значений логических операторов в переменную">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677848957007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Шаг 23&#10;Использование логических операторов &amp;&amp; и ||&#10;Присваивание значений логических операторов в переменную">
+      <created>1677852566182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677852566182</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Шаг 20" />
     <MESSAGE value="Шаг 21&#10;Увеличили кол-во условий при помощи оператора else if" />
     <MESSAGE value="Шаг 22&#10;Объявили переменную boolean&#10;Рассмотрели вложенные операторы if" />
-    <option name="LAST_COMMIT_MESSAGE" value="Шаг 22&#10;Объявили переменную boolean&#10;Рассмотрели вложенные операторы if" />
+    <MESSAGE value="Шаг 23&#10;Использование логических операторов &amp;&amp; и ||&#10;Присваивание значений логических операторов в переменную" />
+    <option name="LAST_COMMIT_MESSAGE" value="Шаг 23&#10;Использование логических операторов &amp;&amp; и ||&#10;Присваивание значений логических операторов в переменную" />
   </component>
 </project>
