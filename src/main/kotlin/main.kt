@@ -1,14 +1,17 @@
 
 fun main() {
     val name = "ТриДогНайт"
-    var healthPoints = 49
+    var healthPoints = 51
     val isBlessed = true
     val isImmortal = false
 
+    // Состояние игрока
+    println("(Аура: $auraColor)" + "(Благословение: ${if(isBlessed)"Да" else "Нет"})")
+    println("$name $healthStatus")
+
     // Аура
     val auraVisible = isBlessed && healthPoints > 50 || isImmortal //Присваивание переменной значения типа boolean
-    val auraColor = if (auraVisible) "Желтая" else "Нет ауры"
-    println(auraColor)
+    val auraColor = if (auraVisible) "Зеленая" else "Нет ауры"
 
     val healthStatus = when (healthPoints) {
         100 -> "в отличном состоянии."
@@ -21,8 +24,5 @@ fun main() {
         "Приплыли"
     }
 
-
-    // Состояние игрока
-    println(name + " " + healthStatus)
 
 }
