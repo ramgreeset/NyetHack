@@ -1,35 +1,28 @@
 
 fun main() {
     val name = "ТриДогНайт"
-    var healthPoints = 84
-    val regeneration = true
+    var healthPoints = 49
+    val isBlessed = true
     val isImmortal = false
 
-    // Аура удачи
-    val luck = regeneration && healthPoints > 50 || isImmortal //Присваивание переменной значения типа boolean
-    val auraLuck = if (luck) "Сопутствует удача" else "Удача отвернулась"
-    println(auraLuck)
+    // Аура
+    val auraVisible = isBlessed && healthPoints > 50 || isImmortal //Присваивание переменной значения типа boolean
+    val auraColor = if (auraVisible) "Желтая" else "Нет ауры"
+    println(auraColor)
 
-    val healthStatus = if (healthPoints == 100) {
-        "в отличном состоянии."
-    }else if(healthPoints in 85..99) {
-        if(regeneration)
-            "включил режим ускоренной регенерации"
-            else
-        "в хорошем состоянии."
-    }else if(healthPoints in 45..84){
-        "ранен"
-    }else if(healthPoints in 30..44){
-        "сильно ранен"
-    } else if (healthPoints in 16..29)
-        "еле стоит на ногах"
-    else if (healthPoints in 0..15) {
-        "вот-вот потеряет сознание"
-    }else
+    val healthStatus = when (healthPoints) {
+        100 -> "в отличном состоянии."
+        in 85..99 -> if(isBlessed)"включил режим ускоренной регенерации" else "в хорошем состоянии."
+        in 45..84 -> "ранен"
+        in 30..44 ->"сильно ранен"
+        in 16..29 ->"еле стоит на ногах"
+        in 0..15 ->"вот-вот потеряет сознание"
+        else ->
         "Приплыли"
+    }
+
 
     // Состояние игрока
     println(name + " " + healthStatus)
-
 
 }
