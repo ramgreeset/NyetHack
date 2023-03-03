@@ -1,8 +1,17 @@
 
 fun main() {
     val name = "ТриДогНайт"
-    var healthPoints = 85
+    var healthPoints = 60
     val regeneration = true
+    val isImmortal = false
+
+    // Аура
+    val auraVisible = regeneration && healthPoints > 50 || isImmortal //Присваивание переменной значения типа boolean
+    if (auraVisible) {
+        println("Аура")
+    } else {
+        println("NONE")
+    }
 
     if (healthPoints == 100) {
         println(name + " в отличном состоянии.")

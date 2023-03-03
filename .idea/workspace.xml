@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7566c81d-ff94-48cb-8387-54eebd16c487" name="Changes" comment="Шаг 21&#10;Увеличили кол-во условий при помощи оператора else if">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7566c81d-ff94-48cb-8387-54eebd16c487" name="Changes" comment="Шаг 22&#10;Объявили переменную boolean&#10;Рассмотрели вложенные операторы if">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,12 +54,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677846857666</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Шаг 22&#10;Объявили переменную boolean&#10;Рассмотрели вложенные операторы if">
+      <created>1677848957007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677848957007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Шаг 20" />
     <MESSAGE value="Шаг 21&#10;Увеличили кол-во условий при помощи оператора else if" />
-    <option name="LAST_COMMIT_MESSAGE" value="Шаг 21&#10;Увеличили кол-во условий при помощи оператора else if" />
+    <MESSAGE value="Шаг 22&#10;Объявили переменную boolean&#10;Рассмотрели вложенные операторы if" />
+    <option name="LAST_COMMIT_MESSAGE" value="Шаг 22&#10;Объявили переменную boolean&#10;Рассмотрели вложенные операторы if" />
   </component>
 </project>
