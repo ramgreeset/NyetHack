@@ -94,5 +94,12 @@
   
   <li>Функции с единственным выражением. Альтернативный синтаксис</li></br>
   
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin039.html">Step 39</a>
+  
+  <li>Функции с возвращаемым типом Unit.</li>
+  <li>Обобщение | Generics</li>
+  <li>void в Java</li></br>
+  
 </ol>
 
