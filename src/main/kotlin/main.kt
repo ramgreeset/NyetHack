@@ -13,12 +13,11 @@ fun main() {
     //Отображение сосстояния игрока
     printPlayerStatus(auraColor, isBlessed, name, healthStatus)
     //Кастуем авадакедавру
-    castFireball((Math.random()*10).toInt())
+    castFireball(1 )
 }
 
-private fun castFireball(numFireballs: Int){
+private fun castFireball(numFireballs: Int ) =
     println("Авадакедавра сученька.(x$numFireballs)")
-}
 private fun printPlayerStatus(
     auraColor: String,
     isBlessed: Boolean,
@@ -35,8 +34,7 @@ private fun auraColor(isBlessed: Boolean, healthPoints: Int, isImmortal: Boolean
     return auraColor
 }
 
-private fun formatHealthStatus(healthPoints: Int, isBlessed: Boolean): String {
-    val healthStatus = when (healthPoints) {
+private fun formatHealthStatus(healthPoints: Int, isBlessed: Boolean) = when (healthPoints) {
         100 -> "в отличном состоянии."
         in 85..99 -> if (isBlessed) "легко ранен, но быстро поправляется" else "в хорошем состоянии."
         in 45..84 -> "ранен"
@@ -46,5 +44,3 @@ private fun formatHealthStatus(healthPoints: Int, isBlessed: Boolean): String {
         else ->
             "погиб"
     }
-    return healthStatus
-}
