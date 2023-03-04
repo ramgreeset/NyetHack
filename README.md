@@ -78,5 +78,13 @@
   
   <li>Вызов функций. Параметры и аргументы функций</li></br>
   
+   <a href="http://it.kgsu.ru/Kotlin/kotlin035.html">Step 35</a>
+  
+  <li>Создание функций средствами IntelliJ</li></br>
+  
+   <a href="http://it.kgsu.ru/Kotlin/kotlin036.html">Step 36</a>
+  
+  <li>Пишем свою функцию с параметрами</li></br>
+  
 </ol>
 
