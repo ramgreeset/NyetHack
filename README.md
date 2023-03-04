@@ -53,6 +53,17 @@
   <li>Отличие downTo от rangeTo()</li>
   <li>Функция until</li>
   <li>Класс Math.pow, Math.random</li>
-  <li>Встроенные методы преобразования типов</li>
+  <li>Встроенные методы преобразования типов</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin030.html">Step 30</a>
+  
+  <li>Общие сведения о функциях</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin031.html">Step 31</a>
+  
+  
+  <li>Инкапсуляция логики в функцию при помощи инструментов intellij idea</li></br>
+  
+  
 </ol>
 
