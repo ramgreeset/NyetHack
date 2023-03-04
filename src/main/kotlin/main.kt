@@ -13,10 +13,10 @@ fun main() {
     //Отображение сосстояния игрока
     printPlayerStatus(auraColor, isBlessed, name, healthStatus)
     //Кастуем авадакедавру
-    castFireball(1 )
+    castFireball(5)
 }
 
-private fun castFireball(numFireballs: Int ) =
+private fun castFireball(numFireballs: Int = 2 ) =
     println("Авадакедавра сученька.(x$numFireballs)")
 private fun printPlayerStatus(
     auraColor: String,
