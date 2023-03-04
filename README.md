@@ -86,5 +86,44 @@
   
   <li>Пишем свою функцию с параметрами</li></br>
   
+   <a href="http://it.kgsu.ru/Kotlin/kotlin037.html">Step 37</a>
+  
+  <li>Параметры функции по умолчанию</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin038.html">Step 38</a>
+  
+  <li>Функции с единственным выражением. Альтернативный синтаксис</li></br>
+  
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin039.html">Step 39</a>
+  
+  <li>Функции с возвращаемым типом Unit.</li>
+  <li>Обобщение | Generics</li>
+  <li>void в Java</li></br>
+  
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin040.html">Step 40</a>
+  
+  <li>Именованные аргументы функций</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin041.html">Step 41</a>
+  
+  <li>Тип Nothing и TODO</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin042.html">Step 42</a>
+  
+  <li>Функции уровня файла в Java</li></br>
+  
+   <a href="http://it.kgsu.ru/Kotlin/kotlin043.html">Step 43</a>
+  
+  <li>Перегрузка функций</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin044.html">Step 44</a>
+  
+  <li>Имена функций в обратных кавычках</li></br>
+  
+  
+  
+  
 </ol>
 
