@@ -61,9 +61,22 @@
   
   <a href="http://it.kgsu.ru/Kotlin/kotlin031.html">Step 31</a>
   
-  
   <li>Инкапсуляция логики в функцию при помощи инструментов intellij idea</li></br>
   
+  <a href="http://it.kgsu.ru/Kotlin/kotlin032.html">Step 32</a>
+  
+  <li>Анатомия функции</li>
+  <li>Модификаторы классов, области видимости</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin033.html">Step 33</a>
+  
+  <li>Тип возвращаемого значения функции</li>
+  <li>Параметры функции</li>
+  <li>Локальные переменные</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin034.html">Step 34</a>
+  
+  <li>Вызов функций. Параметры и аргументы функций</li></br>
   
 </ol>
 
