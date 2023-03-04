@@ -101,5 +101,29 @@
   <li>Обобщение | Generics</li>
   <li>void в Java</li></br>
   
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin040.html">Step 40</a>
+  
+  <li>Именованные аргументы функций</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin041.html">Step 41</a>
+  
+  <li>Тип Nothing и TODO</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin042.html">Step 42</a>
+  
+  <li>Функции уровня файла в Java</li></br>
+  
+   <a href="http://it.kgsu.ru/Kotlin/kotlin043.html">Step 43</a>
+  
+  <li>Перегрузка функций</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin044.html">Step 44</a>
+  
+  <li>Имена функций в обратных кавычках</li></br>
+  
+  
+  
+  
 </ol>
 
