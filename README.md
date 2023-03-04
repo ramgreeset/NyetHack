@@ -86,5 +86,13 @@
   
   <li>Пишем свою функцию с параметрами</li></br>
   
+   <a href="http://it.kgsu.ru/Kotlin/kotlin037.html">Step 37</a>
+  
+  <li>Параметры функции по умолчанию</li></br>
+  
+  <a href="http://it.kgsu.ru/Kotlin/kotlin038.html">Step 38</a>
+  
+  <li>Функции с единственным выражением. Альтернативный синтаксис</li></br>
+  
 </ol>
 
