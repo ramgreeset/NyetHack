@@ -52,5 +52,7 @@
   <li>Функция rangeTo() | 1 in 3.rangeTo(1)</li>
   <li>Отличие downTo от rangeTo()</li>
   <li>Функция until</li>
+  <li>Класс Math.pow, Math.random</li>
+  <li>Встроенные методы преобразования типов</li>
 </ol>
 
