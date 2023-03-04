@@ -39,7 +39,13 @@
  
  <a href="http://it.kgsu.ru/Kotlin/kotlin027.html">Step 27</a>
  
- <li>Условное выражение when. Особенности и преимущества его использования </li>
+ <li>Условное выражение when. Особенности и преимущества его использования</li></br>
+ 
+  <a href="http://it.kgsu.ru/Kotlin/kotlin028.html">Step 28</a>
+ 
+ <li>Шаблонные строки</li>
+ 
+ <li>Интерполяция</li></br>
  
 </ol>
 
