@@ -44,8 +44,13 @@
   <a href="http://it.kgsu.ru/Kotlin/kotlin028.html">Step 28</a>
  
  <li>Шаблонные строки</li>
- 
  <li>Интерполяция</li></br>
  
+ 
+  <a href="http://it.kgsu.ru/Kotlin/kotlin029.html">Step 29</a>
+  
+  <li>Функция rangeTo() | 1 in 3.rangeTo(1)</li>
+  <li>Отличие downTo от rangeTo()</li>
+  <li>Функция until</li>
 </ol>
 
