@@ -12,8 +12,13 @@ fun main() {
     val healthStatus = formatHealthStatus(healthPoints, isBlessed)
     //Отображение сосстояния игрока
     printPlayerStatus(auraColor, isBlessed, name, healthStatus)
+    //Кастуем авадакедавру
+    castFireball((Math.random()*10).toInt())
 }
 
+private fun castFireball(numFireballs: Int){
+    println("Авадакедавра сученька.(x$numFireballs)")
+}
 private fun printPlayerStatus(
     auraColor: String,
     isBlessed: Boolean,
